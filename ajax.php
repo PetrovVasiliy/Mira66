@@ -49,3 +49,4 @@ foreach ( $_FILES as $file ) {
 }
 
 die('1');
+?>
